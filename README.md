@@ -1,2 +1,13 @@
 # cweb-lite
-A minimal HTTP server implemented in C using BSD sockets. Designed for learning, experimentation, and building lightweight web services.
+
+A minimal and lightweight HTTP server written in C, built using BSD sockets.  
+This project demonstrates request handling, socket programming, and basic HTTP response architecture.
+
+## Features
+- Minimal HTTP 1.1 server
+- Handles basic GET requests
+- Serves simple HTML response
+- Clean and readable C code
+
+## Build
+
